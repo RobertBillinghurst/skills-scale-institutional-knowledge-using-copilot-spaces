@@ -35,9 +35,24 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
+## Role Ownership — Planning
+
+| Artifact / Activity | Owner | Contributors |
+|---|---|---|
+| Backlog creation and prioritisation | Product Manager | UX Designer, Data Analyst, Developers |
+| Acceptance criteria | Product Manager | UX Designer, Developers, Support/Success Lead |
+| Estimation | Developers | DevOps/Platform Engineer, QA |
+| Definition of Done | Project Manager | Product Manager, Developers, QA |
+| Release plan / milestone map | Project Manager | Product Manager, DevOps/Platform Engineer |
+| Risk register (initial) | Project Manager | All roles |
+| Test plan | Developers / QA | DevOps/Platform Engineer |
+
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (see Cross-Functional Kickoff Checklist in initiation doc)
 - [ ] Backlog prioritized and estimated
+- [ ] Acceptance criteria include UX and supportability requirements
+- [ ] Success metrics confirmed with Data Analyst
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] DevOps/Platform Engineer has reviewed infrastructure and pipeline needs

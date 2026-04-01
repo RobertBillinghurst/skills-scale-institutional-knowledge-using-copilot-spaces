@@ -12,6 +12,16 @@ After each sprint, release, or important milestone. Also after incidents.
 - Action items (owner, due date)
 - Follow-up on previous action items
 
+## Role Ownership — Retrospectives
+
+| Artifact / Activity | Owner | Contributors |
+|---|---|---|
+| Retrospective facilitation | Project Manager | All team members |
+| Metrics impact review | Data Analyst | Product Manager |
+| Action item tracking | Project Manager | All owners named in action items |
+| Process improvement backlog | Project Manager | Product Manager |
+| Incident retrospective | DevOps/Platform Engineer | Developers, Project Manager |
+
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
