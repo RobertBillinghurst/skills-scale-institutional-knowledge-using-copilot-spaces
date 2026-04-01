@@ -3,6 +3,17 @@
 ## Purpose
 Explain how to identify, manage, and communicate risks and dependencies.
 
+## Role Ownership — Risk Management & Communication
+
+| Artifact / Activity | Owner | Contributors |
+|---|---|---|
+| Risk register maintenance | Project Manager | All roles |
+| Technical risk assessment | Developers / DevOps | Project Manager |
+| Stakeholder communication | Project Manager | Product Manager |
+| Incident communication | DevOps/Platform Engineer | Project Manager, Support/Success Lead |
+| Escalation decisions | Project Manager | Product Manager, Sponsor |
+| Support escalation runbook | Support/Success Lead | DevOps/Platform Engineer |
+
 ## Risk Register
 Maintain a simple table with:
 - ID
