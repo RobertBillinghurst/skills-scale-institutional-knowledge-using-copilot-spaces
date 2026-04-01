@@ -39,7 +39,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 | Artifact / Activity | Owner | Contributors |
 |---|---|---|
-| Backlog creation and prioritisation | Product Manager | UX Designer, Data Analyst, Developers |
+| Backlog creation and prioritization | Product Manager | UX Designer, Data Analyst, Developers |
 | Acceptance criteria | Product Manager | UX Designer, Developers, Support/Success Lead |
 | Estimation | Developers | DevOps/Platform Engineer, QA |
 | Definition of Done | Project Manager | Product Manager, Developers, QA |

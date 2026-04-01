@@ -148,7 +148,7 @@ DevOps/Platform Engineers build and maintain the infrastructure, deployment pipe
 - Collaborate with Developers and QA on testability, security, and non-functional requirements
 
 ### Goals
-- Maximise deployment frequency while minimising mean time to recovery (MTTR)
+- Maximize deployment frequency while minimizing mean time to recovery (MTTR)
 - Ensure production environments are stable, observable, and auditable
 - Reduce toil through automation and self-service tooling
 
@@ -195,7 +195,7 @@ Customer Support/Success Leads act as the voice of the customer inside the deliv
 
 ## How roles collaborate
 
-The table below summarises key handoffs and shared accountability across the core roles.
+The table below summarizes key handoffs and shared accountability across the core roles.
 
 | Activity | Product Manager | Project Manager | Developer | UX Designer | Data Analyst | DevOps/Platform Eng. | Support/Success Lead |
 |---|---|---|---|---|---|---|---|
